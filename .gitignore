@@ -6,3 +6,4 @@ benchmark/main.md
 benchmark/judgement.md
 interfaces/build/
 interfaces/*.mod
+src/.DS_Store
